@@ -133,7 +133,7 @@ const Navbar = () => {
                 <span className="text-white font-bold text-lg">H</span>
               </div>
               <span className="text-xl font-bold text-gray-900 dark:text-white">
-                HACKADEMIA
+                URBI-FIX
               </span>
             </Link>
           </div>
