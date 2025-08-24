@@ -1,0 +1,634 @@
+[
+  {
+    "user_message": "190",
+    "user_offer": 190.0,
+    "bot_offer": 407.0,
+    "bot_message": "I understand your budget. How about ₹407.0 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "300",
+    "user_offer": 300.0,
+    "bot_offer": 374.9,
+    "bot_message": "I understand your budget. How about ₹374.9 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no",
+    "user_offer": null,
+    "bot_offer": 356.155,
+    "bot_message": "For General Service, I can offer ₹356.155. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "300",
+    "user_offer": 300.0,
+    "bot_offer": 339.3085,
+    "bot_message": "I understand your budget. How about ₹339.3085 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "200",
+    "user_offer": 200.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "200",
+    "user_offer": 200.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "100",
+    "user_offer": 100.0,
+    "bot_offer": null,
+    "bot_message": "❌ ₹100.0 is too low for quality General Service. My minimum is ₹300.0.",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": false
+  },
+  {
+    "user_message": "400",
+    "user_offer": 400.0,
+    "bot_offer": 470.0,
+    "bot_message": "I understand your budget. How about ₹470.0 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "290",
+    "user_offer": 290.0,
+    "bot_offer": 416.0,
+    "bot_message": "I understand your budget. How about ₹416.0 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "190",
+    "user_offer": 190.0,
+    "bot_offer": 348.2,
+    "bot_message": "I understand your budget. How about ₹348.2 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "190",
+    "user_offer": 190.0,
+    "bot_offer": 300.74,
+    "bot_message": "I understand your budget. How about ₹300.74 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "190",
+    "user_offer": 190.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "190",
+    "user_offer": 190.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "200",
+    "user_offer": 200.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "300",
+    "user_offer": 300.0,
+    "bot_offer": 300.0,
+    "bot_message": "✅ Excellent! Deal accepted at ₹300.0 for General Service.",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": true,
+    "final_price": 300.0
+  },
+  {
+    "user_message": "100",
+    "user_offer": 100.0,
+    "bot_offer": null,
+    "bot_message": "❌ ₹100.0 is too low for quality General Service. My minimum is ₹300.0.",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": false
+  },
+  {
+    "user_message": "i only need to clean one room",
+    "user_offer": null,
+    "bot_offer": 475.0,
+    "bot_message": "For General Service, I can offer ₹475.0. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "200",
+    "user_offer": 200.0,
+    "bot_offer": 392.5,
+    "bot_message": "I understand your budget. How about ₹392.5 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "250",
+    "user_offer": 250.0,
+    "bot_offer": 349.75,
+    "bot_message": "I understand your budget. How about ₹349.75 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "260",
+    "user_offer": 260.0,
+    "bot_offer": 322.825,
+    "bot_message": "I understand your budget. How about ₹322.825 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "250",
+    "user_offer": 250.0,
+    "bot_offer": 300.97749999999996,
+    "bot_message": "I understand your budget. How about ₹300.97749999999996 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "260",
+    "user_offer": 260.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "260",
+    "user_offer": 260.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no 260?",
+    "user_offer": 260.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service? This is my best offer for quality work.",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "ok 270",
+    "user_offer": 270.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service? This is my best offer for quality work.",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no",
+    "user_offer": null,
+    "bot_offer": 285.0,
+    "bot_message": "For General Service, I can offer ₹285.0. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "260",
+    "user_offer": 260.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service? This is my best offer for quality work.",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "100",
+    "user_offer": 100.0,
+    "bot_offer": null,
+    "bot_message": "❌ ₹100.0 is too low for quality General Service. My minimum is ₹300.0.",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": false
+  },
+  {
+    "user_message": "what is your price",
+    "user_offer": null,
+    "bot_offer": 475.0,
+    "bot_message": "For General Service, I can offer ₹475.0. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "200",
+    "user_offer": 200.0,
+    "bot_offer": 392.5,
+    "bot_message": "I understand your budget. How about ₹392.5 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "210",
+    "user_offer": 210.0,
+    "bot_offer": 337.75,
+    "bot_message": "I understand your budget. How about ₹337.75 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "220",
+    "user_offer": 220.0,
+    "bot_offer": 302.425,
+    "bot_message": "I understand your budget. How about ₹302.425 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "210",
+    "user_offer": 210.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "220",
+    "user_offer": 220.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "220",
+    "user_offer": 220.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "220",
+    "user_offer": 220.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service? This is my best offer for quality work.",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "220",
+    "user_offer": 220.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service? This is my best offer for quality work.",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "220",
+    "user_offer": 220.0,
+    "bot_offer": 300.0,
+    "bot_message": "I understand your budget. How about ₹300.0 for General Service? This is my best offer for quality work.",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no",
+    "user_offer": null,
+    "bot_offer": 285.0,
+    "bot_message": "For General Service, I can offer ₹285.0. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no",
+    "user_offer": null,
+    "bot_offer": 270.75,
+    "bot_message": "For General Service, I can offer ₹270.75. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no",
+    "user_offer": null,
+    "bot_offer": 257.2125,
+    "bot_message": "For General Service, I can offer ₹257.2125. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no",
+    "user_offer": null,
+    "bot_offer": 244.35187499999998,
+    "bot_message": "For General Service, I can offer ₹244.35187499999998. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no",
+    "user_offer": null,
+    "bot_offer": 232.13428124999996,
+    "bot_message": "For General Service, I can offer ₹232.13428124999996. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no",
+    "user_offer": null,
+    "bot_offer": 220.52756718749995,
+    "bot_message": "For General Service, I can offer ₹220.52756718749995. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no",
+    "user_offer": null,
+    "bot_offer": 209.50118882812495,
+    "bot_message": "For General Service, I can offer ₹209.50118882812495. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no",
+    "user_offer": null,
+    "bot_offer": 199.0261293867187,
+    "bot_message": "For General Service, I can offer ₹199.0261293867187. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no",
+    "user_offer": null,
+    "bot_offer": 189.07482291738276,
+    "bot_message": "For General Service, I can offer ₹189.07482291738276. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no",
+    "user_offer": null,
+    "bot_offer": 179.62108177151362,
+    "bot_message": "For General Service, I can offer ₹179.62108177151362. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no",
+    "user_offer": null,
+    "bot_offer": 170.64002768293793,
+    "bot_message": "For General Service, I can offer ₹170.64002768293793. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no",
+    "user_offer": null,
+    "bot_offer": 162.10802629879103,
+    "bot_message": "For General Service, I can offer ₹162.10802629879103. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "nahi",
+    "user_offer": null,
+    "bot_offer": 154.00262498385146,
+    "bot_message": "For General Service, I can offer ₹154.00262498385146. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "haan",
+    "user_offer": null,
+    "bot_offer": 146.3024937346589,
+    "bot_message": "For General Service, I can offer ₹146.3024937346589. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "theek",
+    "user_offer": null,
+    "bot_offer": 138.98736904792594,
+    "bot_message": "For General Service, I can offer ₹138.98736904792594. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "theek",
+    "user_offer": null,
+    "bot_offer": 132.03800059552964,
+    "bot_message": "For General Service, I can offer ₹132.03800059552964. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "theek",
+    "user_offer": null,
+    "bot_offer": 125.43610056575315,
+    "bot_message": "For General Service, I can offer ₹125.43610056575315. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "ok",
+    "user_offer": null,
+    "bot_offer": 119.16429553746549,
+    "bot_message": "For General Service, I can offer ₹119.16429553746549. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "kk",
+    "user_offer": null,
+    "bot_offer": 113.20608076059222,
+    "bot_message": "For General Service, I can offer ₹113.20608076059222. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "ok",
+    "user_offer": null,
+    "bot_offer": 107.5457767225626,
+    "bot_message": "For General Service, I can offer ₹107.5457767225626. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "ok",
+    "user_offer": null,
+    "bot_offer": 102.16848788643446,
+    "bot_message": "For General Service, I can offer ₹102.16848788643446. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "ok",
+    "user_offer": null,
+    "bot_offer": 97.06006349211273,
+    "bot_message": "For General Service, I can offer ₹97.06006349211273. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "50",
+    "user_offer": 50.0,
+    "bot_offer": null,
+    "bot_message": "❌ ₹50.0 is too low for quality General Service. My minimum is ₹300.0.",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": false
+  },
+  {
+    "user_message": "200",
+    "user_offer": 200.0,
+    "bot_offer": 410.0,
+    "bot_message": "I understand your budget. How about ₹410.0 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "no that is too high",
+    "user_offer": null,
+    "bot_offer": 389.5,
+    "bot_message": "For General Service, I can offer ₹389.5. What's your budget?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "200-300",
+    "user_offer": 200.0,
+    "bot_offer": 332.65,
+    "bot_message": "I understand your budget. How about ₹332.65 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "300",
+    "user_offer": 300.0,
+    "bot_offer": 322.85499999999996,
+    "bot_message": "I understand your budget. How about ₹322.85499999999996 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "300",
+    "user_offer": 300.0,
+    "bot_offer": 315.9985,
+    "bot_message": "I understand your budget. How about ₹315.9985 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "300",
+    "user_offer": 300.0,
+    "bot_offer": 311.19894999999997,
+    "bot_message": "I understand your budget. How about ₹311.19894999999997 for General Service?",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": null
+  },
+  {
+    "user_message": "300",
+    "user_offer": 300.0,
+    "bot_offer": 311.19894999999997,
+    "bot_message": "✅ Excellent! Deal accepted at ₹300.0 for General Service.",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": true,
+    "final_price": 300.0
+  },
+  {
+    "user_message": "100",
+    "user_offer": 100.0,
+    "bot_offer": null,
+    "bot_message": "❌ ₹100.0 is too low for quality General Service. My minimum is ₹300.0.",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": false
+  },
+  {
+    "user_message": "100",
+    "user_offer": 100.0,
+    "bot_offer": null,
+    "bot_message": "❌ ₹100.0 is too low for quality General Service. My minimum is ₹300.0.",
+    "service_context": null,
+    "strategy": "moderate",
+    "accepted": false
+  }
+]
