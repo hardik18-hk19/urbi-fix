@@ -19,7 +19,7 @@ const Footer = () => {
 
   const footerLinks = {
     platform: [
-      { label: "About HACKADEMIA", href: "/about" },
+      { label: "About URBI-FIX", href: "/about" },
       { label: "How It Works", href: "/how-it-works" },
       { label: "Features", href: "/features" },
       { label: "Pricing", href: "/pricing" },
@@ -85,7 +85,7 @@ const Footer = () => {
                 <span className="text-white font-bold text-lg">H</span>
               </div>
               <span className="text-xl font-bold text-gray-900 dark:text-white">
-                HACKADEMIA
+                URBI-FIX
               </span>
             </div>
             <p className="text-gray-600 dark:text-gray-400 mb-4 max-w-md">
@@ -98,7 +98,7 @@ const Footer = () => {
             <div className="space-y-2 text-sm text-gray-600 dark:text-gray-400">
               <div className="flex items-center space-x-2">
                 <Mail className="w-4 h-4" />
-                <span>support@hackademia.com</span>
+                <span>support@urbi-fix.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="w-4 h-4" />
