@@ -25,7 +25,12 @@ const __dirname = path.dirname(__filename);
 const app = express();
 
 // Middleware
-app.use(cors());
+app.use(
+  cors({
+    origin: [process.env.FRONTEND_URL, process.env.CLIENT_URL],
+    credentials: true,
+  })
+);
 app.use(morgan("dev"));
 app.use(requestLogger); // Custom request logger
 app.use(express.json());
